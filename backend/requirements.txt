@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+torch
+transformers
+SpeechRecognition
+httpx
+beautifulsoup4
+accelerate
+python-multipart
+websockets
